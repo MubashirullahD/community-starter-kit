@@ -34,6 +34,6 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
+#Comment to be posted when a first time user creates an issue
 newIssueWelcomeComment: >
   Thanks for opening this issue, a maintainer will get back to you shortly!
