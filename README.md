@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+App is an automation tool that posts messages for you, for first timer committers. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome messages for new users who post an Issue, a pull request and a successful merge. 
 
 ## Getting started
 
